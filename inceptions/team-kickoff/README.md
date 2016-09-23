@@ -186,3 +186,20 @@ by measuring ...**
     - communication across teams is a must
     - watch out for duplicate tooling from other teams
   - lots of cross talking
+
+## Cadence
+  - Daily
+    - pairing
+    - standups
+  - weekly
+    - ipm
+    - retro
+    - drumpbeat
+  - bi-weekly (fridays every 14 days)
+    - metrics review
+    - demo / show & tell (field, r+d, eng.)
+  - monthly
+    - office hours in SF office
+    - 1/3 extended office hours for team gaggle
+  - quarterly
+    - board meeting in san fran (stakeholders to attend and review)
